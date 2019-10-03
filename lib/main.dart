@@ -50,6 +50,7 @@ import '0924/delivery_intro.dart';
 import '0924/intro_aglo.dart';
 import '0924/introview.dart';
 import '0924/school_matching.dart';
+import '0930/travel_plan.dart';
 
 // https://flutterawesome.com/a-beautiful-and-animated-bottom-navigation/
 // https://medium.com/flutter-community/everything-you-need-to-know-about-flutter-page-route-transition-9ef5c1b32823
@@ -113,7 +114,24 @@ class MyApp extends StatelessWidget {
 //      home: SchoolMatchingIntro(), // 09-24
 //    home: DeliveryIntro(), // 09-24
 //    home: IntroAglo(), // 09-24
-      home: Bottom_Navigator(), // 09-24
+//      home: Bottom_Navigator(), // 09-24
+//      home: EcoMuseumApp(),  // 0925
+//      home: EcoMuseumApp2(),  // 0925
+//      home: EcoMuseumApp3(),  // 0925
+//      home: MovieApp(),  // 0926
+//      home: MovieApp03(),  // 0926
+//      home: SignInUI(),  // 0926
+//      home: SignUpUI(),  // 0926
+//      home: FoodDelivery(),  // 0927
+//      home: FindApartment(),  // 0927
+//      home: TravelApp(),  // 0927
+//      home: ApexRanking(),  // 0928
+//      home: MichalApp(),  // 0928
+//      home: DietApp(),  // 0928
+//      home: Example(),  // 0930
+//      home: MovieInterfaceApp(),  // 0930
+      home: TravelPlan(), // 0930
+//      home: TravelPlan2(),  // 0930
     );
   }
 }

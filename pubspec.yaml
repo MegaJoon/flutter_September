@@ -30,6 +30,8 @@ dependencies:
   carousel_slider: ^1.3.1
   intro_slider: ^2.2.8
   percent_indicator: ^2.1.1
+  sliding_up_panel: ^0.3.6
+  rating_bar: ^0.2.0
 
 
 dev_dependencies:
@@ -68,6 +70,21 @@ flutter:
     - assets/dog.png
     - assets/aglo1.jpeg
     - assets/aglo2.jpeg
+
+    - assets/avengers.jpg
+      - assets/aladdin.jpg
+      - assets/rocketman.jpg
+      - assets/thelionking.jpg
+      - assets/brielarson.jpg
+      - assets/chrisevans.jpg
+      - assets/markruffalo.png
+      - assets/barcode.gif
+      - assets/ramensoup.png
+      - assets/udonsoup.png
+      - assets/apex01.png
+      - assets/apex02.png
+      - assets/apex03.png
+      - assets/apex04.png
 
 
   # An image asset can refer to one or more resolution-specific "variants", see
